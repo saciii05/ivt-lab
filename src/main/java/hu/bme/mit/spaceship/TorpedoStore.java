@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
 * Class storing and managing the torpedoes of a ship
-*
+* szia krisztián itt a commented
 * (Deliberately contains bugs.)
 */
 public class TorpedoStore {
